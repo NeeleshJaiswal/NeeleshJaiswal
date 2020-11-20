@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Neelesh Jaiswal </h1>
-<h3 align="center">A passionate Frontend developer  </h3>
+<!-- <h3 align="center">A passionate Frontend developer  </h3> -->
 
 
 ![image](https://github.com/wanderindev/wanderindev/blob/master/assets/about-cover.png)
