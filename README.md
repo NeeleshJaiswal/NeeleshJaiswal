@@ -28,7 +28,7 @@
  </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/neeleshjaiswal08/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/neeleshjaiswal08/" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/neeleshjaiswal08/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jaiswalneelesh/)/" height="20" width="20" /></a>
   <a href="https://www.facebook.com/neelesh.jaiswal08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/neelesh.jaiswal08" height="20" width="20" /></a>
   <a href="https://www.instagram.com/neel.j08/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/neel.j08/" height="20" width="20" /></a>
  <a href="https://twitter.com/NeeleshJaiswal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/NeeleshJaiswal" height="20" width="20" /></a>
