@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **Neelesh.jaiswal08@gmail.com**
+- 📫 How to reach me **Neelesh.jaiswal27@gmail.com**
 
 
 
